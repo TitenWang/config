@@ -1,2 +1,2 @@
 # config
- repository for collecting configuration
+A repository for collecting configuration files
